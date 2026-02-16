@@ -4,7 +4,7 @@
     "url": "$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wiki-search-bot-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 601,
     "timeYear": 435,
     "dailyMinutesDown": {
+      "2026-02-16": 0,
       "2026-02-02": 15
     }
   }
